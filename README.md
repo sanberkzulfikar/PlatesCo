@@ -1,5 +1,7 @@
 # Plates Co Sales System
 
+Live Deploy Link: https://sanberk-platesco.netlify.app
+
 This project is a proof of concept for Plates Co’s new sales system. It is a web-based application that allows users to add products to their basket, view the total cost, and apply special offers and delivery charges.
 
 ## Features
