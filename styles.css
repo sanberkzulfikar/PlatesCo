@@ -1,0 +1,27 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  h1, h2, h3 {
+    text-align: center;
+  }
+  
+  h1, h2 {
+    font-size: 30px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  .green-plate {
+    color: #06D6A0;
+  }
+  
+  .red-plate {
+    color: #E24338;
+  }
+  
+  .blue-plate {
+    color: #2BB1F0;
+  }
